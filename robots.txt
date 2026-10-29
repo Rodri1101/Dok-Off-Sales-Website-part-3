@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace the placeholder below with your actual deployed sitemap URL.
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
+Sitemap: https://rodri1101.github.io/Dok-Off-Sales-Website-part-3/sitemap.xml
