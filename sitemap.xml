@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace YOUR-GITHUB-USERNAME and YOUR-REPOSITORY after deployment. -->
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/products.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/enquiry.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc></url>
+</urlset>
