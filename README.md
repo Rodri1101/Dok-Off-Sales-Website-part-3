@@ -197,9 +197,13 @@ Before publishing, replace `YOUR-GITHUB-USERNAME` and `YOUR-REPOSITORY` in `robo
 - Fixed the gallery lightbox so its hidden state cannot be overridden by `display:flex`. This prevents a transparent/dark overlay from covering the Home and About pages and blocking navigation or buttons.
 - Reduced the decorative hero overlay darkness and prevented the decorative overlay from intercepting clicks.
 
-### Final manual steps before submission
-1. Test all five pages locally and test the forms, product search/filter, gallery lightbox, mobile navigation, and links.
-2. Replace the sitemap placeholders with the actual published URL.
-3. Commit and push the final files to the remote GitHub repository.
-4. Publish the site on a free hosting platform and add the live URL and repository URL here.
-5. Capture final testing screenshots and include them in the submission evidence.
+## Project Documentation
+
+- [Changelog](CHANGELOG.md) — records project improvements and corrections.
+- [References](REFERENCES.md) — lists the resources consulted during development.
+
+## Live Website
+
+Visit the published website:
+
+https://rodri1101.github.io/Dok-Off-Sales-Website-part-3/
